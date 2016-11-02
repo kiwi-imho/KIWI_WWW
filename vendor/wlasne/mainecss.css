@@ -1,0 +1,16 @@
+.cennik {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.cennik th, td {
+    text-align: center;
+    padding: 8px;
+}
+
+.cennik tr:nth-child(even){background-color: #f2f2f2}
+
+.cennik th {
+    background-color: #fed136;
+    color: white;
+}
